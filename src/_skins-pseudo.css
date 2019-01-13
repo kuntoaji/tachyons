@@ -17,10 +17,6 @@
 .hover-mid-gray:focus { color: var(--mid-gray); }
 .hover-gray:hover,
 .hover-gray:focus { color: var(--gray); }
-.hover-silver:hover,
-.hover-silver:focus { color: var(--silver); }
-.hover-light-silver:hover,
-.hover-light-silver:focus { color: var(--light-silver); }
 .hover-moon-gray:hover,
 .hover-moon-gray:focus { color: var(--moon-gray); }
 .hover-light-gray:hover,
@@ -79,10 +75,6 @@
 .hover-bg-mid-gray:focus { background-color: var(--mid-gray); }
 .hover-bg-gray:hover,
 .hover-bg-gray:focus { background-color: var(--gray); }
-.hover-bg-silver:hover,
-.hover-bg-silver:focus { background-color: var(--silver); }
-.hover-bg-light-silver:hover,
-.hover-bg-light-silver:focus { background-color: var(--light-silver); }
 .hover-bg-moon-gray:hover,
 .hover-bg-moon-gray:focus { background-color: var(--moon-gray); }
 .hover-bg-light-gray:hover,
