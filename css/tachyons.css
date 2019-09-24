@@ -916,14 +916,6 @@ input[type="tel"], input[type="text"], input[type="url"], .border-box { box-sizi
 .hover-light-red:focus { color: #ff725c; }
 .hover-gold:hover { color: #ffb700; }
 .hover-gold:focus { color: #ffb700; }
-.hover-dark-pink:hover { color: undefined; }
-.hover-dark-pink:focus { color: undefined; }
-.hover-hot-pink:hover { color: undefined; }
-.hover-hot-pink:focus { color: undefined; }
-.hover-pink:hover { color: undefined; }
-.hover-pink:focus { color: undefined; }
-.hover-light-pink:hover { color: undefined; }
-.hover-light-pink:focus { color: undefined; }
 .hover-dark-green:hover { color: #137752; }
 .hover-dark-green:focus { color: #137752; }
 .hover-green:hover { color: #19a974; }
@@ -954,14 +946,6 @@ input[type="tel"], input[type="text"], input[type="url"], .border-box { box-sizi
 .hover-bg-light-red:focus { background-color: #ff725c; }
 .hover-bg-gold:hover { background-color: #ffb700; }
 .hover-bg-gold:focus { background-color: #ffb700; }
-.hover-bg-dark-pink:hover { background-color: undefined; }
-.hover-bg-dark-pink:focus { background-color: undefined; }
-.hover-bg-hot-pink:hover { background-color: undefined; }
-.hover-bg-hot-pink:focus { background-color: undefined; }
-.hover-bg-pink:hover { background-color: undefined; }
-.hover-bg-pink:focus { background-color: undefined; }
-.hover-bg-light-pink:hover { background-color: undefined; }
-.hover-bg-light-pink:focus { background-color: undefined; }
 .hover-bg-dark-green:hover { background-color: #137752; }
 .hover-bg-dark-green:focus { background-color: #137752; }
 .hover-bg-green:hover { background-color: #19a974; }
@@ -1144,8 +1128,8 @@ input[type="tel"], input[type="text"], input[type="url"], .border-box { box-sizi
 .striped--moon-gray:nth-child(odd) { background-color: #ccc; }
 .striped--light-gray:nth-child(odd) { background-color: #eee; }
 .striped--near-white:nth-child(odd) { background-color: #f4f4f4; }
-.stripe-light:nth-child(odd) { background-color: undefined; }
-.stripe-dark:nth-child(odd) { background-color: undefined; }
+.stripe-light:nth-child(odd) { background-color: rgba( 255, 255, 255, .1 ); }
+.stripe-dark:nth-child(odd) { background-color: rgba( 0, 0, 0, .1 ); }
 /*
 
    TEXT DECORATION
